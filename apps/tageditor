@@ -1,0 +1,6 @@
+# tageditor
+===
+ A tag editor with a Qt GUI and a command-line interface. It supports MP4 (iTunes), ID3, Vorbis, Opus, FLAC, and Matroska.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/Martchus/tageditor
